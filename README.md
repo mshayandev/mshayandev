@@ -118,6 +118,10 @@ ESP32-based automated climate control system with relay modules and remote monit
 ### Web Development Portfolio
 Multiple volunteer websites for student organizations and events
 
+## 🏭 Industrial Exposure
+
+- ✈️ **Industrial Visit – RADAR ACC, Pakistan Airports Authority** – Studied real-world **communication, navigation, surveillance (CNS), radar, and air-traffic-control systems**, gaining hands-on exposure to aviation-grade wireless infrastructure.
+
 ## 💼 Leadership & Experience
 
 - 🎯 **Manager Technical** – TE LINKS (Student Body)
@@ -126,7 +130,12 @@ Multiple volunteer websites for student organizations and events
 - 🎮 **Co-Director** – NED Evolve '25 (Esports Event)
 - 🪴 **Technical Manager** – CLIMATECH- 2025 (2nd International Conference on Technology Driven Climate Action)
 - 🤝 **Volunteer** – Multiple International Tech Conferences
-- ❤️ **Community Service** – Old-age home visits & Iftar drives
+
+## ❤️ Community Services
+
+- 🌙 **Ramadan Iftar Drive** – Organized and distributed iftar meals to those in need
+- 👴 **Old Age Home Outreach Programme** – Regular visits and engagement activities with elderly residents
+- 🌳 **Plantation Drive** – Participated in tree-planting initiatives for a greener environment
 
 ## 🏆 GitHub Trophies
 <div align="center">
